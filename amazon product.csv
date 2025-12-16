@@ -1,0 +1,101 @@
+Review ID,Phone Model,Review Text,Rating,Product Quality,Battery Life,Heating,Speed,Camera Quality
+1,Samsung Galaxy Z Flip7,"Performance is smooth, apps run without lag.",4,Good,Good,Hot,Slow,Average
+2,Samsung Galaxy M56,Battery lasts a full day but drains faster with gaming.,4,Good,Excellent,Warm,Fast,Excellent
+3,Samsung Galaxy A36 5G,Speaker volume is low compared to other phones.,4,Good,Excellent,Warm,Average,Average
+4,Samsung Galaxy M56,Battery lasts a full day but drains faster with gaming.,4,Good,Poor,Cool,Slow,Good
+5,iQOO 12,"Display is bright and clear, great for videos.",4,Good,Average,Hot,Slow,Good
+6,Samsung Galaxy Z Flip7,"Design is sleek, but charging speed is disappointing.",5,Good,Excellent,Hot,Fast,Excellent
+7,Samsung Galaxy A36 5G,Excellent 5G connectivity and fast internet speeds.,2,Bad,Excellent,Hot,Slow,Average
+8,Samsung Galaxy S25 Ultra,Speaker volume is low compared to other phones.,1,Bad,Average,Hot,Fast,Good
+9,Samsung Galaxy Z Flip7,"Camera is outstanding, captures details even in low light.",3,Average,Excellent,Warm,Fast,Good
+10,Samsung Galaxy A36 5G,"Value for money, but build feels a bit cheap.",2,Bad,Excellent,Warm,Fast,Average
+11,iQOO 12,"Display is bright and clear, great for videos.",5,Good,Excellent,Warm,Average,Excellent
+12,Samsung Galaxy S25 Ultra,Phone heats up during long video calls.,4,Good,Excellent,Cool,Slow,Good
+13,iQOO 12,Phone heats up during long video calls.,4,Good,Average,Hot,Slow,Excellent
+14,Xiaomi 15 Ultra,"Camera is outstanding, captures details even in low light.",1,Bad,Poor,Cool,Fast,Good
+15,Vivo T2x 5G,"Performance is smooth, apps run without lag.",2,Bad,Average,Cool,Slow,Excellent
+16,Samsung Galaxy Z Flip7,Speaker volume is low compared to other phones.,3,Average,Average,Cool,Slow,Good
+17,Samsung Galaxy M56,"Display is bright and clear, great for videos.",5,Good,Poor,Warm,Average,Average
+18,iPhone 15 Pro Max,Excellent 5G connectivity and fast internet speeds.,5,Good,Excellent,Cool,Slow,Excellent
+19,Samsung Galaxy S25 Ultra,"Camera is outstanding, captures details even in low light.",3,Average,Poor,Warm,Slow,Excellent
+20,OnePlus 13,"Display is bright and clear, great for videos.",5,Good,Good,Hot,Slow,Average
+21,Vivo V27 5G,"Display is bright and clear, great for videos.",1,Bad,Good,Cool,Slow,Excellent
+22,Xiaomi 15 Ultra,"Camera is outstanding, captures details even in low light.",4,Good,Good,Hot,Slow,Excellent
+23,Vivo V27 5G,"Camera is outstanding, captures details even in low light.",3,Average,Average,Warm,Average,Average
+24,Samsung Galaxy S25 Ultra,Excellent 5G connectivity and fast internet speeds.,3,Average,Good,Warm,Slow,Average
+25,Samsung Galaxy A36 5G,Speaker volume is low compared to other phones.,2,Bad,Good,Hot,Slow,Good
+26,Samsung Galaxy Z Flip7,"Camera is outstanding, captures details even in low light.",3,Average,Average,Cool,Fast,Excellent
+27,Samsung Galaxy M56,Excellent 5G connectivity and fast internet speeds.,5,Good,Average,Cool,Fast,Excellent
+28,iQOO 12,"Design is sleek, but charging speed is disappointing.",1,Bad,Good,Hot,Slow,Excellent
+29,Samsung Galaxy M56,Phone heats up during long video calls.,1,Bad,Average,Hot,Slow,Average
+30,Vivo T2x 5G,"Value for money, but build feels a bit cheap.",4,Good,Good,Warm,Slow,Average
+31,iQOO 12,Excellent 5G connectivity and fast internet speeds.,4,Good,Excellent,Hot,Fast,Excellent
+32,Samsung Galaxy Z Flip7,"Camera is outstanding, captures details even in low light.",1,Bad,Average,Warm,Average,Average
+33,Samsung Galaxy S25 Ultra,Battery lasts a full day but drains faster with gaming.,4,Good,Good,Cool,Average,Average
+34,Vivo V27 5G,"Display is bright and clear, great for videos.",4,Good,Poor,Hot,Average,Excellent
+35,Samsung Galaxy S25 Ultra,"Value for money, but build feels a bit cheap.",4,Good,Excellent,Cool,Average,Average
+36,Samsung Galaxy S25 Ultra,"Display is bright and clear, great for videos.",3,Average,Excellent,Cool,Fast,Good
+37,Vivo T2x 5G,"Camera is outstanding, captures details even in low light.",5,Good,Average,Cool,Average,Average
+38,Samsung Galaxy S25 Ultra,Battery lasts a full day but drains faster with gaming.,1,Bad,Excellent,Hot,Slow,Good
+39,iQOO 12,"Value for money, but build feels a bit cheap.",1,Bad,Poor,Warm,Fast,Good
+40,iPhone 15 Pro Max,"Display is bright and clear, great for videos.",5,Good,Excellent,Warm,Average,Excellent
+41,Vivo T2x 5G,"Design is sleek, but charging speed is disappointing.",2,Bad,Poor,Hot,Fast,Good
+42,Samsung Galaxy S25 Ultra,Excellent 5G connectivity and fast internet speeds.,1,Bad,Good,Cool,Fast,Excellent
+43,Samsung Galaxy A36 5G,Speaker volume is low compared to other phones.,1,Bad,Poor,Cool,Slow,Excellent
+44,Xiaomi 15 Ultra,Excellent 5G connectivity and fast internet speeds.,3,Average,Excellent,Hot,Fast,Excellent
+45,OnePlus 13,Battery lasts a full day but drains faster with gaming.,3,Average,Good,Warm,Slow,Good
+46,iPhone 15 Pro Max,Phone heats up during long video calls.,2,Bad,Excellent,Warm,Slow,Average
+47,Samsung Galaxy Z Flip7,"Design is sleek, but charging speed is disappointing.",4,Good,Excellent,Hot,Slow,Good
+48,Vivo V27 5G,"Display is bright and clear, great for videos.",4,Good,Average,Cool,Slow,Good
+49,iQOO 12,Phone heats up during long video calls.,5,Good,Average,Warm,Average,Good
+50,Samsung Galaxy S25 Ultra,"Camera is outstanding, captures details even in low light.",1,Bad,Average,Warm,Average,Good
+51,iQOO 12,"Received a defective unit, had to return.",1,Bad,Excellent,Cool,Fast,Excellent
+52,iQOO 12,Phone heats up during long video calls.,1,Bad,Average,Cool,Average,Excellent
+53,Xiaomi 15 Ultra,"Value for money, but build feels a bit cheap.",3,Average,Good,Hot,Average,Good
+54,iPhone 15 Pro Max,Excellent 5G connectivity and fast internet speeds.,4,Good,Poor,Warm,Fast,Excellent
+55,iQOO 12,Phone heats up during long video calls.,1,Bad,Poor,Warm,Fast,Average
+56,Samsung Galaxy S25 Ultra,Phone heats up during long video calls.,1,Bad,Good,Cool,Average,Good
+57,Samsung Galaxy M56,"Received a defective unit, had to return.",3,Average,Poor,Warm,Slow,Average
+58,Samsung Galaxy S25 Ultra,"Received a defective unit, had to return.",5,Good,Poor,Cool,Average,Average
+59,iPhone 15 Pro Max,Phone heats up during long video calls.,5,Good,Poor,Cool,Average,Average
+60,OnePlus 13,Speaker volume is low compared to other phones.,3,Average,Excellent,Hot,Slow,Good
+61,OnePlus 13,"Camera is outstanding, captures details even in low light.",4,Good,Good,Hot,Fast,Good
+62,Samsung Galaxy Z Flip7,"Camera is outstanding, captures details even in low light.",5,Good,Good,Warm,Average,Good
+63,Samsung Galaxy A36 5G,Excellent 5G connectivity and fast internet speeds.,4,Good,Average,Warm,Average,Average
+64,Samsung Galaxy Z Flip7,"Camera is outstanding, captures details even in low light.",5,Good,Excellent,Cool,Average,Excellent
+65,Vivo T2x 5G,Speaker volume is low compared to other phones.,3,Average,Poor,Cool,Average,Excellent
+66,iQOO 12,"Value for money, but build feels a bit cheap.",2,Bad,Excellent,Cool,Average,Average
+67,Samsung Galaxy A36 5G,"Value for money, but build feels a bit cheap.",5,Good,Average,Warm,Fast,Average
+68,Samsung Galaxy S25 Ultra,Excellent 5G connectivity and fast internet speeds.,3,Average,Excellent,Warm,Fast,Average
+69,Vivo V27 5G,Phone heats up during long video calls.,3,Average,Excellent,Cool,Slow,Excellent
+70,Samsung Galaxy Z Flip7,Excellent 5G connectivity and fast internet speeds.,5,Good,Excellent,Cool,Fast,Excellent
+71,Samsung Galaxy Z Flip7,"Design is sleek, but charging speed is disappointing.",4,Good,Average,Warm,Fast,Average
+72,Samsung Galaxy Z Flip7,"Performance is smooth, apps run without lag.",5,Good,Excellent,Hot,Slow,Excellent
+73,Vivo T2x 5G,"Design is sleek, but charging speed is disappointing.",5,Good,Average,Cool,Fast,Good
+74,Samsung Galaxy M56,"Camera is outstanding, captures details even in low light.",5,Good,Average,Warm,Slow,Good
+75,Samsung Galaxy M56,Speaker volume is low compared to other phones.,2,Bad,Average,Hot,Fast,Average
+76,Samsung Galaxy S25 Ultra,Speaker volume is low compared to other phones.,1,Bad,Excellent,Cool,Fast,Good
+77,Samsung Galaxy M56,Excellent 5G connectivity and fast internet speeds.,5,Good,Poor,Cool,Slow,Average
+78,Samsung Galaxy M56,"Value for money, but build feels a bit cheap.",5,Good,Average,Cool,Slow,Good
+79,Samsung Galaxy Z Flip7,"Design is sleek, but charging speed is disappointing.",3,Average,Poor,Cool,Average,Good
+80,iPhone 15 Pro Max,Phone heats up during long video calls.,1,Bad,Good,Warm,Average,Good
+81,iPhone 15 Pro Max,"Received a defective unit, had to return.",2,Bad,Poor,Hot,Average,Good
+82,Samsung Galaxy S25 Ultra,Excellent 5G connectivity and fast internet speeds.,5,Good,Good,Hot,Slow,Excellent
+83,Vivo V27 5G,Phone heats up during long video calls.,3,Average,Excellent,Warm,Average,Excellent
+84,iQOO 12,Speaker volume is low compared to other phones.,3,Average,Average,Hot,Slow,Average
+85,Xiaomi 15 Ultra,"Design is sleek, but charging speed is disappointing.",5,Good,Excellent,Hot,Fast,Excellent
+86,Samsung Galaxy A36 5G,Speaker volume is low compared to other phones.,5,Good,Good,Warm,Slow,Good
+87,Samsung Galaxy Z Flip7,"Display is bright and clear, great for videos.",5,Good,Poor,Warm,Fast,Good
+88,iQOO 12,Excellent 5G connectivity and fast internet speeds.,4,Good,Excellent,Cool,Fast,Excellent
+89,Samsung Galaxy S25 Ultra,Battery lasts a full day but drains faster with gaming.,1,Bad,Average,Warm,Average,Average
+90,iQOO 12,Battery lasts a full day but drains faster with gaming.,3,Average,Average,Warm,Slow,Good
+91,OnePlus 13,"Display is bright and clear, great for videos.",3,Average,Excellent,Cool,Average,Good
+92,Samsung Galaxy A36 5G,"Performance is smooth, apps run without lag.",2,Bad,Average,Cool,Average,Average
+93,Samsung Galaxy A36 5G,Speaker volume is low compared to other phones.,5,Good,Excellent,Hot,Slow,Excellent
+94,Vivo V27 5G,"Camera is outstanding, captures details even in low light.",3,Average,Average,Hot,Slow,Good
+95,Samsung Galaxy A36 5G,"Performance is smooth, apps run without lag.",4,Good,Good,Warm,Average,Good
+96,OnePlus 13,Excellent 5G connectivity and fast internet speeds.,4,Good,Excellent,Hot,Average,Excellent
+97,Samsung Galaxy Z Flip7,"Value for money, but build feels a bit cheap.",1,Bad,Average,Warm,Slow,Excellent
+98,Samsung Galaxy A36 5G,Speaker volume is low compared to other phones.,4,Good,Good,Hot,Slow,Average
+99,Vivo T2x 5G,"Camera is outstanding, captures details even in low light.",3,Average,Poor,Cool,Fast,Excellent
+100,iPhone 15 Pro Max,"Performance is smooth, apps run without lag.",5,Good,Poor,Cool,Fast,Excellent
