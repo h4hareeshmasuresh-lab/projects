@@ -1,0 +1,13 @@
+customerid,age,income,gender,websitevisitor,purchase
+1,22,25000,M,5,No
+2,35,52000,F,2,Yes
+3,29,48000,F,3,Yes
+4,40,61000,M,7,Yes
+5,22,30000,F,1,No
+6,20,80000,M,8,Yes
+7,50,45000,M,3,Yes
+8,28,80000,M,2,Yes
+9,33,46000,F,6,Yes
+10,45,54000,M,4,Yes
+11,26,65000,F,1,No
+12,38,55000,M,3,No
